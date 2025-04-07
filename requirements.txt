@@ -1,0 +1,17 @@
+openai==0.28.0
+requests>=2.26.0
+google-search-results>=2.0.0
+pinecone-client>=2.2.1
+sentence-transformers>=2.2.2
+scikit-learn>=1.0
+numpy>=1.21.0 
+transformers>=4.20.0
+torch>=1.10.0
+newspaper3k>=0.2.8
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+streamlit
+beautifulsoup4>=4.10.0
+feedparser
+sentence-transformers 
+faiss-cpu 

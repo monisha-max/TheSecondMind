@@ -1,4 +1,4 @@
-# THESECONDMIND
+# TheSecondMind
 ## Features
 
 - Modular Multi-Agent Architecture: Distinct agents for hypothesis generation, external data integration, reflection, ranking, evolution, summarisation, semantic memory (using FAISS), and meta-review.
